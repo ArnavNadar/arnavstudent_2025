@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Student Home 
+title: Arnav Nadar
 description: Home Page
 hide: true
 ---
 
-My journey starts here.
+My name Arnav Nadar !
